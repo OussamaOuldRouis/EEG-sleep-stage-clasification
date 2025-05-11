@@ -98,7 +98,7 @@ The system extracts four types of features from EEG signals:
 
 ### Model Architecture
 
-![Model Architecture](model_architecture.png)
+![Model Architecture](model_architecture.jpg)
 
 1. **Base Models**: Multiple classifiers trained on extracted features
 2. **Meta-Model**: XGBoost classifier trained on base model predictions
